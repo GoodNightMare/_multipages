@@ -1,0 +1,25 @@
+.todo-container{
+    /* border: 1px solid black; */
+    padding: 10px;
+    text-align: center;
+}
+
+.todo-filter-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.todo-button-spacing{
+    margin: 0 0.5rem;
+}
+
+.pagination button {
+    margin: 0 1rem;
+    width: 3.5rem;
+    letter-spacing: 0.2rem;
+}
+
+.pagination span{
+    letter-spacing: 0.2rem;
+}
